@@ -4,14 +4,11 @@ V.1.0
 _____________________________________________________________________________
 
 
-This font is free for PERSONAL USE ONLY.
-
-If you would like to use it commercially, contact me at contact@youssef-habchi.com to get a commercial license.
-
-Thank you.
+uso da font:
+@font-face {
+    font-family: 'Road Rage';
+    src: url('https://cdn.jsdelivr.net/gh/Pierremoraes-ofc/roadrage_font@main/Road_Rage.woff2') format('woff2');
+}
 
 _____________________________________________________________________________
 
-contact@youssef-habchi.com
-
-http://youssef-habchi.com
